@@ -1,0 +1,4 @@
+requests
+scrapy
+beautifulsoup4
+typer
